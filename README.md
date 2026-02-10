@@ -374,4 +374,6 @@ This project is developed strictly for **academic and learning purposes** under 
 }
 ```
 
----
+---o/p
+<img width="626" height="707" alt="Screenshot 2026-02-10 171914" src="https://github.com/user-attachments/assets/508f4414-4faa-4d6d-a97c-3f6001eb4057" />
+
